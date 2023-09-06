@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+
+    <!-- Activity Main -->
+    <string name="expense_tracker">Expense Tracker</string>
+    <string name="food">Food</string>
+    <string name="transport">Transport</string>
+    <string name="shopping">Shopping</string>
+    <string name="total_expense">Total Expense:</string>
+    <string name="view_expenses">View Expenses</string>
+    <string name="initial_total_expense">@string/zero_amount</string>
+    <string name="enter_expense">Enter Expense</string>
+    <string name="btn_foods">Food</string>
+    <string name="btn_transports">Transport</string>
+    <string name="btn_shoppings">Shopping</string>
+    <string name="btn_reset">Reset</string>
+
+
+
+    <!-- Activity Expense Entry -->
+    <string name="expense_entry">Expense Entry</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="done">Done</string>
+
+    <!-- Activity View Expenses -->
+    <string name="expenses_heading">Expenses</string>
+    <string name="total">Total</string>
+    <string name="zero_amount">0</string>
+    <string name="expenses">Expenses</string>
+
+</resources>
